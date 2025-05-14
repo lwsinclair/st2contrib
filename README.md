@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stackstorm-st2contrib-badge.png)](https://mseep.ai/app/stackstorm-st2contrib)
+
 ![](http://i.imgur.com/uHWYuDY.png)
 
 # We are moving!
